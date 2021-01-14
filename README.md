@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://xmobile.tel/assets/imgs/logo-icon.png" width="110" height="110"/>
+  <img src="https://placehold.it/350x150" width="350" height="150"/>
   <br/>
   <br/>
   <br/>
